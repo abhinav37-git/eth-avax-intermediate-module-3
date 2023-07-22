@@ -1,5 +1,14 @@
 # eth-avax-intermediate-module-3
-The code defines a custom token contract called "CustomToken" that inherits functionality from three contracts in the OpenZeppelin library: ERC20, ERC20Burnable, and Ownable.
+
+AnyToken Contract
+
+License This contract is using the MIT License.
+
+Prerequisites Solidity ^0.8.9
+
+Contract Details: The contract imports three contracts from the OpenZeppelin library:
+
+The code defines a custom token contract called "AnyToken" that inherits functionality from three contracts in the OpenZeppelin library: ERC20, ERC20Burnable, and Ownable.
 
 The ERC20 contract is a standard implementation of the ERC20 token standard, which provides basic functionality for a fungible token. It includes functions such as transferring tokens, approving token transfers, and checking token balances.
 
