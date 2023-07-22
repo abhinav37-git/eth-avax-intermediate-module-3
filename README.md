@@ -1,4 +1,4 @@
-# eth-avax-intermediate-module-3
+# ETH-AVAL INTERMEDIATE 3
 
 AnyToken Contract
 
